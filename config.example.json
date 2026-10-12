@@ -1,0 +1,32 @@
+{
+  "roi": {"left": 0, "top": 0, "width": 400, "height": 600},
+  "geometry": {
+    "size": [400, 600],
+    "corners": [[0, 0], [399, 0], [399, 599], [0, 599]],
+    "judgment_y": 520,
+    "calibrated": false
+  },
+  "vision": {
+    "lanes": [[0.04, 0.21], [0.29, 0.46], [0.54, 0.71], [0.79, 0.96], [0.04, 0.46], [0.54, 0.96]],
+    "colors": {
+      "bt": [[[0, 0, 190], [179, 65, 255]]],
+      "fx": [[[8, 110, 130], [32, 255, 255]]],
+      "laser_l": [[[80, 100, 120], [105, 255, 255]]],
+      "laser_r": [[[135, 100, 120], [175, 255, 255]]]
+    },
+    "occupancy": 0.58,
+    "min_height": 3,
+    "hold_height": 22
+  },
+  "buttons": ["BT-A", "BT-B", "BT-C", "BT-D", "FX-L", "FX-R"],
+  "analogs": ["VOL-L", "VOL-R"],
+  "api": {"host": "127.0.0.1", "port": 1337, "password_env": "SPICE_API_PASSWORD", "timeout": 0.3},
+  "laser": {"enabled": false, "gain": [0.25, 0.25], "max_step": 0.05},
+  "latency_ms": 0,
+  "pulse_ms": 25,
+  "tracking_ttl": 0.10,
+  "max_frame_gap": 0.15,
+  "max_hold_seconds": 8,
+  "fps": 120,
+  "panic_key": "f12"
+}

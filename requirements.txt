@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+opencv-python>=4.10,<6
+mss>=9,<11
+pynput>=1.7,<2
+pytest>=8,<10

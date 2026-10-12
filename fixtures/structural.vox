@@ -1,0 +1,10 @@
+// Invented structural fixture; not a claim of game-version compatibility.
+#FORMAT VERSION
+12
+#END
+#BPM INFO
+001,01,00 120.0
+#END
+#TRACK3
+001,01,00 0 0
+#END

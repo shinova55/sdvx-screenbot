@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sdvx-screenbot"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26,<3", "opencv-python>=4.10,<6", "mss>=9,<11", "pynput>=1.7,<2"]
+
+[project.scripts]
+sdvxbot = "sdvxbot.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["sdvxbot*"]

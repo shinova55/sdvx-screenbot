@@ -1,0 +1,32 @@
+[
+  {
+    "path": "api/resources/python/spiceapi/request.py",
+    "status": 200,
+    "bytes": 1433
+  },
+  {
+    "path": "api/resources/python/spiceapi/response.py",
+    "status": 200,
+    "bytes": 655
+  },
+  {
+    "path": "api/resources/python/spiceapi/connection.py",
+    "status": 200,
+    "bytes": 4109
+  },
+  {
+    "path": "api/modules/buttons.cpp",
+    "status": 200,
+    "bytes": 5356
+  },
+  {
+    "path": "api/modules/analogs.cpp",
+    "status": 200,
+    "bytes": 4968
+  },
+  {
+    "path": "games/sdvx/io.cpp",
+    "status": 200,
+    "bytes": 5195
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "time": 0.0,
+    "module": "buttons",
+    "name": "BT-A",
+    "value": 0.0
+  },
+  {
+    "time": 0.0,
+    "module": "buttons",
+    "name": "BT-B",
+    "value": 0.0
+  },
+  {
+    "time": 0.0,
+    "module": "buttons",
+    "name": "BT-C",
+    "value": 0.0
+  },
+  {
+    "time": 0.0,
+    "module": "buttons",
+    "name": "BT-D",
+    "value": 0.0
+  },
+  {
+    "time": 0.0,
+    "module": "buttons",
+    "name": "FX-L",
+    "value": 0.0
+  },
+  {
+    "time": 0.0,
+    "module": "buttons",
+    "name": "FX-R",
+    "value": 0.0
+  },
+  {
+    "time": 1.0,
+    "module": "buttons",
+    "name": "BT-A",
+    "value": 1.0
+  },
+  {
+    "time": 1.025,
+    "module": "buttons",
+    "name": "BT-A",
+    "value": 0.0
+  },
+  {
+    "time": 1.35,
+    "module": "buttons",
+    "name": "BT-B",
+    "value": 1.0
+  },
+  {
+    "time": 1.375,
+    "module": "buttons",
+    "name": "BT-B",
+    "value": 0.0
+  },
+  {
+    "time": 1.7,
+    "module": "buttons",
+    "name": "BT-C",
+    "value": 1.0
+  },
+  {
+    "time": 1.725,
+    "module": "buttons",
+    "name": "BT-C",
+    "value": 0.0
+  },
+  {
+    "time": 2.05,
+    "module": "buttons",
+    "name": "BT-D",
+    "value": 1.0
+  },
+  {
+    "time": 2.075,
+    "module": "buttons",
+    "name": "BT-D",
+    "value": 0.0
+  },
+  {
+    "time": 2.4,
+    "module": "buttons",
+    "name": "FX-L",
+    "value": 1.0
+  },
+  {
+    "time": 2.425,
+    "module": "buttons",
+    "name": "FX-L",
+    "value": 0.0
+  },
+  {
+    "time": 2.75,
+    "module": "buttons",
+    "name": "FX-R",
+    "value": 1.0
+  },
+  {
+    "time": 2.775,
+    "module": "buttons",
+    "name": "FX-R",
+    "value": 0.0
+  },
+  {
+    "time": 3.2,
+    "module": "buttons",
+    "name": "BT-A",
+    "value": 1.0
+  },
+  {
+    "time": 3.85,
+    "module": "buttons",
+    "name": "BT-A",
+    "value": 0.0
+  },
+  {
+    "time": 4.1,
+    "module": "buttons",
+    "name": "FX-R",
+    "value": 1.0
+  },
+  {
+    "time": 4.9,
+    "module": "buttons",
+    "name": "FX-R",
+    "value": 0.0
+  },
+  {
+    "time": 5.2,
+    "module": "buttons",
+    "name": "BT-B",
+    "value": 1.0
+  },
+  {
+    "time": 5.2,
+    "module": "buttons",
+    "name": "BT-C",
+    "value": 1.0
+  },
+  {
+    "time": 5.233333333333333,
+    "module": "buttons",
+    "name": "BT-B",
+    "value": 0.0
+  },
+  {
+    "time": 5.233333333333333,
+    "module": "buttons",
+    "name": "BT-C",
+    "value": 0.0
+  },
+  {
+    "time": 5.45,
+    "module": "buttons",
+    "name": "BT-B",
+    "value": 1.0
+  },
+  {
+    "time": 5.483333333333333,
+    "module": "buttons",
+    "name": "BT-B",
+    "value": 0.0
+  }
+]
